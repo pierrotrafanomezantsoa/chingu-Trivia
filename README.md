@@ -9,3 +9,5 @@ HTML5/CSS3 and Javascript
 
 ###Source
 https://github.com/pierrotrafanomezantsoa/chingu-Trivia
+
+##Links: http://www.littlebear-mada.xyz/
